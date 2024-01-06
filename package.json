@@ -1,0 +1,22 @@
+{
+  "name": "git-extension-pack",
+  "displayName": "Git Extension Pack",
+  "description": "extension pack to add to yds when everyone integrates to git 0 this wil  be phased out",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "GitHub.vscode-pull-request-github",
+    "mhutchie.git-graph",
+    "donjayamanne.githistory"
+  ],
+  "galleryBanner": {
+    "color": "#050180",
+    "theme": "dark"
+  }, 
+  "icon": "images/yamaha_blue.ico"
+}
