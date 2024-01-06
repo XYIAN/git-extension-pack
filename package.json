@@ -6,6 +6,7 @@
   "engines": {
     "vscode": "^1.85.0"
   },
+  "repository": {"url": "https://github.com/XYIAN/git-extension-pack.git"},
   "categories": [
     "Extension Packs"
   ],
