@@ -1,7 +1,9 @@
 {
   "name": "git-extension-pack",
   "displayName": "Git Extension Pack",
-  "description": "extension pack to add to yds when everyone integrates to git 0 this wil  be phased out",
+    "publisher": "YAMAHA",
+
+  "description": "extension pack to add to yds when YDS team integrates to git 0 this wil  be phased out",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.85.0"
