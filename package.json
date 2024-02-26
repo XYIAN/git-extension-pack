@@ -16,7 +16,8 @@
     "GitHub.vscode-pull-request-github",
     "mhutchie.git-graph",
     "donjayamanne.githistory",
-    "howardzuo.vscode-git-tags"
+    "howardzuo.vscode-git-tags",
+    "GitHub.remotehub"
   ],
   "galleryBanner": {
     "color": "#050180",
