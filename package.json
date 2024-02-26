@@ -15,7 +15,9 @@
   "extensionPack": [ 
     "GitHub.vscode-pull-request-github",
     "mhutchie.git-graph",
-    "donjayamanne.githistory"
+    "donjayamanne.githistory",
+    "howardzuo.vscode-git-tags",
+    "GitHub.remotehub"
   ],
   "galleryBanner": {
     "color": "#050180",
