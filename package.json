@@ -17,7 +17,8 @@
     "mhutchie.git-graph",
     "donjayamanne.githistory",
     "howardzuo.vscode-git-tags",
-    "GitHub.remotehub"
+    "GitHub.remotehub",
+    "eamodio.gitlens"
   ],
   "galleryBanner": {
     "color": "#050180",
