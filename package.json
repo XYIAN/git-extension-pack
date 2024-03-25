@@ -1,18 +1,19 @@
 {
   "name": "git-yds",
   "displayName": "YDS Git Pack",
-    "publisher": "YAMAHA",
-
+  "publisher": "YAMAHA",
   "description": "extension pack to add to yds when YDS team integrates to git 0 this wil  be phased out",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.85.0"
   },
-  "repository": {"url": "https://github.com/XYIAN/git-extension-pack.git"},
+  "repository": {
+    "url": "https://github.com/XYIAN/git-extension-pack.git"
+  },
   "categories": [
     "Extension Packs"
   ],
-  "extensionPack": [ 
+  "extensionPack": [
     "GitHub.vscode-pull-request-github",
     "mhutchie.git-graph",
     "donjayamanne.githistory",
@@ -23,6 +24,6 @@
   "galleryBanner": {
     "color": "#050180",
     "theme": "dark"
-  }, 
+  },
   "icon": "images/yamaha_blue.ico"
 }
