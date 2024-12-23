@@ -1,16 +1,7 @@
-# Basic Git Extension Pack (FREE)
-
-<p align="center">
-  <a href=https://www.yamahamotorsports.com>
-    <img src='./images/y2.jpg' alt='yamaha logo blue'/>
-  </a>
-</p>
+# Basic Git Extension Pack From XYIAN Software(FREE)
 
 
 
-#### Privacy
-
-All images and branding belong to Yamaha Motor Corperation USA
 
 ## Contributors ✨
 
@@ -29,4 +20,3 @@ All images and branding belong to Yamaha Motor Corperation USA
 
 ## Thank you!
 
-<a href=https://www.yamaha.com/><img src=https://yamaha-motor.com/images/mock-homepage/homepage_accessories_desktop_bkg_C.png /></a>
