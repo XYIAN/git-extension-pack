@@ -3,7 +3,7 @@
   "displayName": "Git Extension Pack from XYIAN Software",
   "publisher": "XYIAN",
   "description": "Git specific extension bundle.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "engines": {
     "vscode": "^1.85.0"
   },
