@@ -1,9 +1,9 @@
 {
-  "name": "git-yds",
-  "displayName": "YDS Git Pack",
-  "publisher": "YAMAHA",
-  "description": "extension pack to add to yds when YDS team integrates to git 0 this wil  be phased out",
-  "version": "0.0.2",
+  "name": "git-xys",
+  "displayName": "Git Extension Pack from XYIAN Software",
+  "publisher": "XYIAN",
+  "description": "Git specific extension bundle.",
+  "version": "1.0.2",
   "engines": {
     "vscode": "^1.85.0"
   },
@@ -22,8 +22,8 @@
     "eamodio.gitlens"
   ],
   "galleryBanner": {
-    "color": "#050180",
+    "color": "#000000",
     "theme": "dark"
   },
-  "icon": "images/yamaha_blue.ico"
+  "icon": "images/Primary.ico"
 }
